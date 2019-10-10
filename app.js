@@ -15,7 +15,8 @@ function sum(a, b) { //eslint-disable-line
     }
     
 sum(4, 7);
-// testSum(4, 7);
+testSum(4, 7);
+// saved it again, cause I did not do the testSum step
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
